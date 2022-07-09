@@ -12,6 +12,7 @@ For each year, The following information are calculated:
 8. Total Customers Previous Year
 9. New Customers
 10.Lost Customers
+
 Additionally, generated a few unique plots highlighting some information from the dataset. 
 
 Dataset
